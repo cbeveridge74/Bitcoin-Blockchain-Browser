@@ -96,12 +96,3 @@ Troubleshooting
 
 Contributing / housekeeping
 - This repo intentionally keeps a small surface area. If you remove a store or test file, delete both implementation and tests to avoid test discovery issues.
-
----
-
-If you want, I can:
-- add PNG fallbacks for the favicon (recommended for older browsers),
-- add a `tests/test-utils.tsx` helper to avoid repeating provider wrappers in tests, or
-- add a short CHANGELOG entry noting the removal of `useCounter`.
-
-If you'd like any of these, tell me which and I'll implement it.
