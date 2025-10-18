@@ -1,3 +1,6 @@
+[![Profile](https://img.shields.io/badge/Author-Craig_Beveridge-2b3137?style=flat&logo=github)](https://github.com/cbeveridge74/SkillsSummary)
+[![View Skills Summary](https://img.shields.io/badge/View%20My-Skills%20Summary-blue?style=flat&logo=markdown)](https://github.com/cbeveridge74/SkillsSummary)
+
 # Bitcoin Blockchain Browser
 
 A small single-page React app that shows the latest Bitcoin block information (current + previous), with polling, local persistence, dark mode, and a tidy developer scaffold.
